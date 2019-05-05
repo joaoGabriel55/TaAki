@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/esporte"
+        android:checkable="true"
+        android:title="Artigos Esportivos" />
+    <item
+        android:id="@+id/vestuario"
+        android:checkable="true"
+        android:title="Vestuário" />
+    <item
+        android:id="@+id/moveis"
+        android:checkable="true"
+        android:title="Móveis" />
+
+</menu>
